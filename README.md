@@ -53,11 +53,6 @@ Here is a screenshot of the Streamlit application interface:
 6.Summary Generation: The highest-scoring sentences are selected to form a summary.
 7.Statistics and Visualization: The application displays statistics and visualizes the difference in character count before and after summarization.
 
-## Example
-# Example 1: Running the script
-Enter the URL of the Wikipedia article you want to summarize:
-https://en.wikipedia.org/wiki/Turkey
-
 ## Summary:
 Turkey is a country located at the crossroads of Europe and Asia. It has a rich cultural heritage and is home to numerous historical landmarks. The country has been a significant political and economic player in the region for centuries.
 
